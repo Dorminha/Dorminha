@@ -1,22 +1,22 @@
-<!-- HEADER DINÂMICO -->
+
 <div align="center">
   
-<!-- Efeito de Digitação -->
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=𝙳𝚎𝚟𝙵𝚞𝚕𝚕𝚂𝚝𝚊𝚌𝚔+♫+Luan de Paz;𝙼𝚞́𝚜𝚒𝚌𝚊+♪+𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊;𝙾𝚙𝚎𝚗𝚂𝚘𝚞𝚛𝚌𝚎+🎧+𝙲𝚘𝚖𝚙𝚊𝚛𝚝𝚒𝚕𝚑𝚑𝚊𝚍𝚘" alt="Header Animado">
 
-<!-- Onda Sonora ASCII -->
+
 <pre style="color: #8A2BE2">
 .-~*´¨¯¨`*·~-.¸-(𝅘𝅥𝅮_𝅘𝅥𝅮_𝅘𝅥𝅮)-,.-~*´¨¯¨`*·~-.¸
 </pre>
 
 </div>
 
-<!-- Título com Efeito Gradiente -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Olá%2C+Eu+sou+Luan;Dev+FullStack+%26+Music+Lover🎵" alt="Typing Effect" />
 </h1>
 
-<!-- Seção: Sobre Mim em Grid -->
+
 <div align="center">
   
 | 🎧 **Minha Playlist** |
@@ -35,7 +35,7 @@ Violão(6 anos)               |
 
 ---
 
-<!-- Cards de Destaque -->
+
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dorminha&theme=radical&hide_border=true&border_radius=10&background=45%2C8A2BE2%2C4B0082)](https://git.io/streak-stats)
@@ -45,7 +45,7 @@ Violão(6 anos)               |
 
 ---
 
-<!-- Tech Stack Organizada -->
+
 ## 🎛️ Tech Stack
 
 <div align="center">
@@ -72,7 +72,7 @@ Violão(6 anos)               |
 
 ---
 
-<!-- Seção de Contato Estilizada -->
+
 <div align="center" style="border-radius:15px; padding:20px; background: linear-gradient(45deg, #8A2BE2, #4B0082)">
   
 ## 🎚️ Conecte-se Comigo
@@ -85,7 +85,7 @@ Violão(6 anos)               |
 
 ---
 
-<!-- FOOTER ANIMADO -->
+
 <div align="center">
 
 ```bash
@@ -97,7 +97,7 @@ Violão(6 anos)               |
 ```
 </div>
 
-<!-- Versão Alternativa com Emojis -->
+
 <div align="center">
 
 ```diff
@@ -107,6 +107,6 @@ Violão(6 anos)               |
 ```
 </div>
 
-<!-- Citação Final -->
+
 > *"Escrevo código como compondo música - cada linha precisa ter ritmo e harmonia"*  
 > — Luan de Paz
