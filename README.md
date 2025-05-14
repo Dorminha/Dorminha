@@ -63,12 +63,6 @@ Violão(6 anos)               |
 ---
 
 <!-- Projetos em Tabela Interativa -->
-## 🎵 Projetos Destacados
-
-| Projeto         | Tech Stack       | Descrição                          | Demo |
-|-----------------|------------------|------------------------------------|------|
-| CodeBeats 🎧    | React, Tone.js   | Player musical para devs          | [Live](https://dorminha.github.io/codebeats) |
-| ChordAI 🎸      | Python, FastAPI  | Gerador inteligente de acordes    | [Repo](https://github.com/Dorminha/chord-ai) |
 
 ---
 
