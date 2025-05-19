@@ -2,7 +2,7 @@
 
 Sou um profissional de TI com paixão por solucionar desafios complexos de infraestrutura, sempre com foco em **segurança cibernética** e **eficiência operacional**. Minha trajetória inclui a gestão de ambientes com centenas de usuários, a otimização de processos através da **automação inteligente** (Python & Google Apps Script) e a constante busca por melhorias em sistemas e redes.
 
-Atualmente, estou imerso no universo de **Sistemas de Informação** 👨‍💻 e busco ativamente oportunidades para aplicar e expandir meus conhecimentos em **desenvolvimento de software**, uma área pela qual sou cada vez mais apaixonado!
+Atualmente, estou imerso em desenvolvimento e busco ativamente oportunidades para aplicar e expandir meus conhecimentos em **desenvolvimento de software**
 
 ---
 
@@ -62,9 +62,9 @@ Atualmente, estou imerso no universo de **Sistemas de Informação** 👨‍💻
 
 * 📚 **Cursando Sistemas de Informação**
 * 📚 **Análise e  Desenvolvimento de sistemas**
-* 🐍 **Certificação em Python** - Dominando a linguagem da automação e dados.
-* ⚛️ **Certificação em React** - Construindo interfaces de usuário modernas e reativas.
-* 🟢 **Certificação em Node.js** - Desenvolvendo aplicações backend escaláveis e eficientes.
+* 🐍 **Certificação em Python**
+* ⚛️ **Certificação em React**
+* 🟢 **Certificação em Node.js**
 
 ---
 
