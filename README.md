@@ -1,4 +1,4 @@
-# Olá! Sou um Analista de Suporte Técnico em transição para Desenvolvimento! 👋
+# Olá! Sou um Analista de Suporte Técnico em transição para Desenvolvimento.
 
 Sou um profissional de TI com paixão por solucionar desafios complexos de infraestrutura, sempre com foco em **segurança cibernética** e **eficiência operacional**. Minha trajetória inclui a gestão de ambientes com centenas de usuários, a otimização de processos através da **automação inteligente** (Python & Google Apps Script) e a constante busca por melhorias em sistemas e redes.
 
