@@ -33,38 +33,35 @@ Atualmente, estou imerso no universo de **Sistemas de Informação** 👨‍💻
 
 ## ✨ Experiências que Moldaram Minha Carreira
 
-### 🏢 Upgrade Contabilidade | Analista de Suporte Técnico
+### 🏢 Upgrade Contabilidade | Analista de Suporte Técnico (2024-2025)
 * Gerenciamento de um ambiente dinâmico com **+200 usuários**.
 * Índice de **98% de resolução** em chamados de suporte (Níveis 1 a 3), com ênfase em sistemas vitais como SITTAX e ERPs.
 * Redução expressiva de **35% nos incidentes de rede** após implementação de melhorias estratégicas em firewall e VLAN.
 * Automação de **+15 processos** chave com Python e Google Apps Script, economizando aproximadamente **12 horas mensais** de trabalho manual.
 
-### ⚖️ Acorde | Suporte Técnico
+### ⚖️ Acorde | Suporte Técnico (Estágio) (2024 - 2024)
 * Suporte remoto ágil e contribuição no aprimoramento de fluxos jurídicos utilizando JavaScript.
 * Otimização de processos que resultou na aceleração das análises jurídicas em **30%**.
 
-### 🏥 Secretaria Municipal de Saúde Pública (Estágio)
+### 🏥 Secretaria Municipal de Saúde Pública (Estágio) (2022-2022)
 * Desenvolvimento de macros inovadoras no LibreOffice para a geração de relatórios epidemiológicos.
 * Liberação de **10 horas semanais** de trabalho manual para a equipe, permitindo foco em análises mais estratégicas.
-
-### 🏛️ Prefeitura Municipal | Suporte Técnico
-* Liderança na migração de **+80 estações** para Windows 10, alcançando uma redução de **25% nas falhas** de sistema.
-* Gerenciamento eficaz de redes estruturadas (cabeamento Cat 5 e 6, switches).
-
-### 🛠️ Prefeitura Municipal | Auxiliar de TI (2020-2021)
-* Configuração e manutenção de redes estruturadas com switches Cisco.
-* Execução de migrações de estações de trabalho utilizando PowerShell.
-* Manutenção de um SLA exemplar de **95% de resolução de chamados** no GLPI.
 
 ### 🎓 Faculdade Multivix (2021) | Suporte Técnico
 * Fornecimento de suporte técnico especializado em hardware e software para alunos e corpo docente.
 * Condução de treinamentos em Microsoft Teams e Office 365, resultando em uma diminuição de **20% nas solicitações básicas** de suporte.
 
+### 🏛️ Prefeitura Municipal | Auxiliar de TI (2020-2021)
+* Configuração e manutenção de redes estruturadas com switches Cisco.
+* Execução de migrações de estações de trabalho utilizando PowerShell.
+* Manutenção de um SLA exemplar de **95% de resolução de chamados** no GLPI.
+
 ---
 
 ## 🎓 Formação & Certificações
 
-* 📚 **Cursando Sistemas de Informação** - Mergulhando fundo no mundo da tecnologia!
+* 📚 **Cursando Sistemas de Informação**
+* 📚 **Análise e  Desenvolvimento de sistemas**
 * 🐍 **Certificação em Python** - Dominando a linguagem da automação e dados.
 * ⚛️ **Certificação em React** - Construindo interfaces de usuário modernas e reativas.
 * 🟢 **Certificação em Node.js** - Desenvolvendo aplicações backend escaláveis e eficientes.
@@ -83,7 +80,5 @@ Meu objetivo principal é **solidificar minha transição para a área de desenv
 
 Sinta-se à vontade para entrar em contato. Adoraria trocar ideias e explorar oportunidades!
 
-* 🔗 **LinkedIn:** [Seu Link do LinkedIn aqui]
-* 📧 **Email:** [Seu Email aqui]
-* 🐱 **GitHub:** [Seu Link do GitHub aqui] (Se quiser adicionar)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/luan-de-paz/]
 
