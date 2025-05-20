@@ -1,81 +1,155 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/readme-top.svg" alt="Ilustração de Programação" width="400"/>
-  <h1>💜 Onde a Lógica Encontra a Paixão! 💜</h1>
-  <p>Bem-vindo(a) ao meu universo de código, onde ideias se transformam em realidade digital.</p>
+# <div align="center">👨‍💻 Luan de Paz</div>
 
-  <p>
-    <a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/koringascp/SEU_REPOSITORIO_PRINCIPAL/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/License-MIT-purple.svg?style=for-the-badge" alt="Licença MIT"/>
-    </a>
-    <a href="https://github.com/koringascp?tab=repositories">
-      <img src="https://img.shields.io/github/followers/koringascp?style=for-the-badge&color=B026FF" alt="Seguidores no GitHub"/>
-    </a>
-    <a href="https://github.com/koringascp?tab=repositories">
-      <img src="https://img.shields.io/github/stars/koringascp?style=for-the-badge&color=9933FF" alt="Estrelas Totais no GitHub"/>
-    </a>
-    <a href="https://github.com/koringascp?tab=repositories">
-      <img src="https://img.shields.io/github/forks/koringascp/SEU_REPOSITORIO_MAIS_FORKADO?style=for-the-badge&color=8A2BE2" alt="Forks no GitHub"/>
-    </a>
-    <a href="https://github.com/koringascp?tab=repositories">
-      <img src="https://img.shields.io/github/issues/koringascp/SEU_REPOSITORIO_COM_MAIS_ISSUES?style=for-the-badge&color=7B68EE" alt="Issues no GitHub"/>
-    </a>
-  </p>
+<div align="center">
+  
+![Banner](https://img.shields.io/badge/Analista%20de%20Suporte%20T%C3%A9cnico-8A2BE2?style=for-the-badge&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</div>
+
+## <div align="center">💫 Sobre Mim</div>
+
+<div align="center">
+  <p>Analista de Suporte Técnico com experiência em infraestrutura, automação e segurança, buscando migrar para desenvolvimento.</p>
+  <p>Solucionador de problemas com foco em resultados e otimização de processos.</p>
 </div>
 
 ---
 
-## 🎯 Sobre Mim e Meus Projetos
+## 🛠️ Habilidades Técnicas
 
-Sou `Dorminha` (ou `Saiyd`, como indicado no perfil `koringascp`), e aqui você encontrará uma coleção dos meus projetos pessoais e contribuições. Minha paixão reside em explorar diversas tecnologias e criar soluções inovadoras. Este repositório em particular (se você estiver adaptando para um projeto específico) ou meu perfil em geral reflete minha jornada no mundo do desenvolvimento de software.
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" alt="Windows" width="65" height="65" />
+        <br>Windows
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+        <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Redes" width="65" height="65" />
+        <br>Redes
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Apps" width="65" height="65" />
+        <br>G-Apps
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="PowerShell" width="65" height="65" />
+        <br>PowerShell
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
+        <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
+        <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+        <br>Git
+    </td>
+  </tr>
+</table>
 
-Busco constantemente aprender e aprimorar minhas habilidades em:
+---
 
-* **Desenvolvimento Web:** Com foco em back-end, mas explorando o front-end.
-* **Segurança Ofensiva/Defensiva:** Scripts e ferramentas relacionadas.
-* **Automação e Otimização:** Com Python e outras linguagens.
-* **Sistemas Distribuídos e Concorrência:** Como visto em projetos como "Barbeiro Dorminhoco".
+## 🚀 Destaques Profissionais
 
-## ✨ Destaques do Meu Portfólio (Projetos Populares/Recentes)
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #2a0845, #6441A5); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <h3>🔍 Resolução de Problemas</h3>
+    <p>✅ Resolvi 98% dos chamados (níveis 1-3) em ambiente com +200 usuários</p>
+    <p>✅ Reduzi incidentes de rede em 35% com melhorias em firewall e VLAN</p>
+    <p>✅ Mantive SLA de 95% na resolução de tickets no GLPI</p>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #6441A5, #2a0845); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+    <h3>⚡ Automação e Otimização</h3>
+    <p>✅ Automatizei +15 processos usando Python e Google Apps Script</p>
+    <p>✅ Eliminei ~12 horas mensais de tarefas manuais</p>
+    <p>✅ Desenvolvi macros no LibreOffice economizando 10h semanais</p>
+  </div>
+</div>
 
-Aqui estão alguns dos projetos mais visitados ou recentes do meu perfil:
+---
 
-* **`MHDDoS` (Python)**: Um script poderoso para ataques DDoS, mostrando minhas habilidades em segurança e redes. (Forked de `MatrixTM/MHDDoS`)
-    * [Link para o Repositório](https://github.com/koringascp/MHDDoS)
-* **`hack_scripts` (C++)**: Coleção de scripts úteis, refletindo meu interesse em cibersegurança e ferramentas de sistema. (Forked de `RomaniukVadim/hack_scripts`)
-    * [Link para o Repositório](https://github.com/koringascp/hack_scripts)
-* **`public` (CSS)**: Um projeto que demonstra minha proficiência em estilização web e design.
-    * [Link para o Repositório](https://github.com/koringascp/public)
-* **`crunchizinha` (JavaScript)**: Um projeto que exibe minhas habilidades em JavaScript para desenvolvimento web.
-    * [Link para o Repositório](https://github.com/koringascp/crunchizinha)
-* **`hwid-spoofer` (C++)**: Outro projeto focado em ferramentas e utilitários de sistema. (Forked de `xmduke/hwid-spoofer`)
-    * [Link para o Repositório](https://github.com/koringascp/hwid-spoofer)
-* **`discord-rpc` (CSS)**: Projeto que explora a integração e personalização de experiências no Discord.
-    * [Link para o Repositório](https://github.com/koringascp/discord-rpc)
-* **(Se houver outros projetos importantes, adicione-os aqui com uma breve descrição e link)**
-    * *Ex: Um projeto Django/FastAPI de um curso, se for o caso: "Este é um projeto **FastAPI** com Python e `encode/databases` para operações assíncronas e **Django** para o ambiente administrativo, demonstrando APIs RESTful seguras com autenticação JWT."*
+## 👨‍💼 Experiência Profissional
 
-## 🛠️ Tecnologias que Utilizo
+### Analista de Suporte Técnico | Upgrade Contabilidade
+- Gerenciei ambiente com +200 usuários (sistemas SITTAX e ERPs)
+- Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
+- Automatizei +15 processos com Python e Google Apps Script
 
-Minha stack de tecnologias inclui, mas não se limita a:
+### Analista de Suporte Técnico | Acorde
+- Prestei suporte remoto e otimizei fluxos jurídicos com JavaScript
+- Aceleração de 30% nas análises de processos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </p>
+### Estagiário | Saúde Pública
+- Desenvolvi macros no LibreOffice para geração de relatórios epidemiológicos
+- Economia de 10 horas semanais em tarefas repetitivas
 
-## 🚀 Como Explorar Meus Projetos
+### Auxiliar de TI | Prefeitura Municipal (2020-2021)
+- Migrei +80 estações para Windows 10, reduzindo falhas em 25%
+- Configurei redes estruturadas com switches Cisco
+- Implementei automações via PowerShell
 
-Cada repositório tem seu próprio `README.md` com instruções detalhadas sobre como configurar e executar o projeto. No entanto, o fluxo geral é:
+### Suporte Técnico | Faculdade Multivix (2021)
+- Suporte em hardware e software para laboratórios
+- Treinamento de equipes no Microsoft Teams e Office 365
+- Redução de 20% nas solicitações básicas de suporte
 
-### 1. Clonar o Repositório Desejado
+---
 
-```bash
-git clone [https://github.com/koringascp/NOME_DO_REPOSITORIO.git](https://github.com/koringascp/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+## 🎓 Formação Acadêmica
+
+- 🎓 **Sistemas de Informação** - Em andamento
+- 📜 **Certificações:**
+  - Python
+  - React
+  - Node.js
+
+---
+
+## 🔎 Busco Oportunidades Para
+
+- Unir troubleshooting e automação em ambientes de alta demanda
+- Aplicar conhecimentos em Python/JS para otimizar processos
+- Migração gradual para área de desenvolvimento
+- Implementar soluções ágeis com foco em segurança e LGPD
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=seuusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
+</div>
