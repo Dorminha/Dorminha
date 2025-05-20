@@ -110,7 +110,7 @@
 
 ---
 
-## 🚀 Destaques Profissionais
+## <div align="center">🚀 Destaques Profissionais
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dorminha&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -138,12 +138,12 @@
 
 ---
 
-## 👨‍💼 Experiência Profissional
+##<div align="center"> 👨‍💼 Experiência Profissional
 
-### Analista de Suporte Técnico | Upgrade Contabilidade
+###<div align="center"> Analista de Suporte Técnico | Upgrade Contabilidade
 - Gerenciei ambiente com +200 usuários (sistemas SITTAX e ERPs)
 - Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
-- Automatizei +15 processos com Python e Google Apps Script
+- Automatizei +15 processos com Python e Google Apps Script</div>
 
 ### Analista de Suporte Técnico | Acorde
 - Prestei suporte remoto e otimizei fluxos jurídicos com JavaScript
@@ -165,7 +165,7 @@
 
 ---
 
-## 🎓 Formação Acadêmica
+##<div align="center"> 🎓 Formação Acadêmica
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sistemas_de_Informação-Em_Andamento-8A2BE2?style=for-the-badge&logo=book&logoColor=white" alt="Sistemas de Informação" />
@@ -179,7 +179,7 @@
 
 ---
 
-## 🔎 Busco Oportunidades Para
+##<div align="center"> 🔎 Busco Oportunidades Para
 
 <div align="center">
   <table>
