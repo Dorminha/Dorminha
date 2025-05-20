@@ -141,9 +141,9 @@
 <div align="center"> 👨‍💼 Experiência Profissional
 
 ### Analista de Suporte Técnico | Upgrade Contabilidade
- Gerenciei ambiente com +200 usuários (sistemas SITTAX e ERPs)
- Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
- Automatizei +15 processos com Python e Google Apps Script
+- Gerenciei ambiente com +200 usuários (sistemas SITTAX e ERPs)
+- Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
+- Automatizei +15 processos com Python e Google Apps Script
 
 ### Analista de Suporte Técnico | Acorde
 - Prestei suporte remoto e otimizei fluxos jurídicos com JavaScript
@@ -165,7 +165,7 @@
 
 ---
 
-<div align="center"> ##🎓 Formação Acadêmica
+<div align="center"> 🎓 Formação Acadêmica
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sistemas_de_Informação-Em_Andamento-8A2BE2?style=for-the-badge&logo=book&logoColor=white" alt="Sistemas de Informação" />
