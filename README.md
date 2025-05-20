@@ -3,8 +3,8 @@
 <div align="center">
   
 ![Banner](https://img.shields.io/badge/Analista%20de%20Suporte%20T%C3%A9cnico-8A2BE2?style=for-the-badge&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-de-paz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luandepaz017@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #2a0845, #6441A5); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <div align="center" style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #2a0845, #6441A5); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
     <h3>🔍 Resolução de Problemas</h3>
     <p>✅ Resolvi 98% dos chamados (níveis 1-3) em ambiente com +200 usuários</p>
     <p>✅ Reduzi incidentes de rede em 35% com melhorias em firewall e VLAN</p>
