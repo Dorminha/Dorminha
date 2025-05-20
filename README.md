@@ -13,8 +13,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=midnight-purple&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dorminha&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorminha&theme=midnight-purple&hide_border=true" width="49%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -205,8 +205,8 @@
   <a href="https://github.com/dorminha">
     <img src="https://img.shields.io/github/followers/dorminha?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/seuusername?tab=repositories">
-    <img src="https://img.shields.io/github/stars/seuusername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+  <a href="https://github.com/dorminha?tab=repositories">
+    <img src="https://img.shields.io/github/stars/dorminha?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
   </a>
 </div>
 
