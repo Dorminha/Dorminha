@@ -124,7 +124,7 @@
     <p>✅ Mantive SLA de 95% na resolução de tickets no GLPI</p>
   </div>
   
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #6441A5, #2a0845); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <div align="center" style="flex: 1; min-width: 300px; margin: 10px; padding: 15px; background: linear-gradient(145deg, #6441A5, #2a0845); border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
     <h3>⚡ Automação e Otimização</h3>
     <p>✅ Automatizei +15 processos usando Python e Google Apps Script</p>
     <p>✅ Eliminei ~12 horas mensais de tarefas manuais</p>
