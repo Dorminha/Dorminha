@@ -206,7 +206,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/seuusername">
+  <a href="https://github.com/dorminha">
     <img src="https://img.shields.io/github/followers/dorminha?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <a href="https://github.com/seuusername?tab=repositories">
