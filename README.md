@@ -103,14 +103,8 @@
   </table>
 </div>
 </div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%" />
-</div>
-
 ---
-
-## <div align="center">🚀 Destaques Profissionais
+<div align="center">🚀 Destaques Profissionais
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dorminha&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
