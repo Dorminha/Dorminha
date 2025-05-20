@@ -34,7 +34,6 @@
 
 <div align="center">
   <a href="https://github.com/dorminha">
-    <img alt="Commits Graph" src="https://activity-graph.herokuapp.com/graph?username=dorminha&bg_color=15162b&color=a277ff&line=a277ff&point=FFFFFF&area=true&hide_border=true" />
   </a>
 </div>
 
