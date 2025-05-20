@@ -165,7 +165,7 @@
 
 ---
 
-##<div align="center"> 🎓 Formação Acadêmica
+<div align="center"> 🎓 Formação Acadêmica
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sistemas_de_Informação-Em_Andamento-8A2BE2?style=for-the-badge&logo=book&logoColor=white" alt="Sistemas de Informação" />
