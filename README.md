@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/seuusername">
+  <a href="https://github.com/dorminha">
     <img alt="Commits Graph" src="https://activity-graph.herokuapp.com/graph?username=dorminha&bg_color=15162b&color=a277ff&line=a277ff&point=FFFFFF&area=true&hide_border=true" />
   </a>
 </div>
@@ -100,10 +100,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%" />
-</div>
 
 ---
 
