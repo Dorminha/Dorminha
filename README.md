@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Analista%20de Suporte%20|%20Desenvolvedor FullStack&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Support%20Analyst%20|%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -18,11 +18,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorminha&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusername&theme=monokai" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dorminha&theme=monokai" width="100%" alt="Activity Graph" />
 </div>
 
 ## <div align="center">💫 Sobre Mim</div>
@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Dorminha">
-    <img alt="Commits Graph" src="https://activity-graph.herokuapp.com/graph?username=Dorminha&bg_color=15162b&color=a277ff&line=a277ff&point=FFFFFF&area=true&hide_border=true" />
+  <a href="https://github.com/seuusername">
+    <img alt="Commits Graph" src="https://activity-graph.herokuapp.com/graph?username=dorminha&bg_color=15162b&color=a277ff&line=a277ff&point=FFFFFF&area=true&hide_border=true" />
   </a>
 </div>
 
@@ -110,7 +110,7 @@
 ## 🚀 Destaques Profissionais
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusername&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dorminha&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
@@ -149,7 +149,7 @@
 ### Estagiário | Saúde Pública
 - Desenvolvi macros no LibreOffice para geração de relatórios epidemiológicos
 - Economia de 10 horas semanais em tarefas repetitivas
-- 
+
 ### Suporte Técnico | Faculdade Multivix (2021)
 - Suporte em hardware e software para laboratórios
 - Treinamento de equipes no Microsoft Teams e Office 365
@@ -202,12 +202,12 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seuusername&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dorminha&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
 
 <div align="center">
   <a href="https://github.com/seuusername">
-    <img src="https://img.shields.io/github/followers/seuusername?label=Follow&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/dorminha?label=Follow&style=social" alt="GitHub followers" />
   </a>
   <a href="https://github.com/seuusername?tab=repositories">
     <img src="https://img.shields.io/github/stars/seuusername?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
