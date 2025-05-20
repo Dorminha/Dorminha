@@ -140,28 +140,28 @@
 
 ##<div align="center"> 👨‍💼 Experiência Profissional
 
-###<div align="center"> Analista de Suporte Técnico | Upgrade Contabilidade
-- Gerenciei ambiente com +200 usuários (sistemas SITTAX e ERPs)
-- Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
-- Automatizei +15 processos com Python e Google Apps Script</div>
+ <div align="center"> Analista de Suporte Técnico | Upgrade Contabilidade
+ Gerenciei ambiente com +50 usuários (sistemas Domínio Contábil e ERPs)
+ Reduzi 35% dos incidentes de rede implementando melhorias em firewall e VLAN
+ Automatizei +15 processos com Python e Google Apps Script
 
-### Analista de Suporte Técnico | Acorde
-- Prestei suporte remoto e otimizei fluxos jurídicos com JavaScript
-- Aceleração de 30% nas análises de processos
+ <div align="center">Analista de Suporte Técnico | Acorde
+ Prestei suporte remoto e otimizei fluxos jurídicos com JavaScript
+ Aceleração de 30% nas análises de processos
 
-### Estagiário | Saúde Pública
-- Desenvolvi macros no LibreOffice para geração de relatórios epidemiológicos
-- Economia de 10 horas semanais em tarefas repetitivas
+ <div align="center">Estagiário | Saúde Pública
+ Desenvolvi macros no LibreOffice para geração de relatórios epidemiológicos
+ Economia de 10 horas semanais em tarefas repetitivas
 
-### Auxiliar de TI | Prefeitura Municipal (2020-2021)
-- Migrei +80 estações para Windows 10, reduzindo falhas em 25%
-- Configurei redes estruturadas com switches Cisco
-- Implementei automações via PowerShell
+ <div align="center">Suporte Técnico | Faculdade Multivix (2021)
+ Suporte em hardware e software para laboratórios
+ Treinamento de equipes no Microsoft Teams e Office 365
+ Redução de 20% nas solicitações básicas de suporte
 
-### Suporte Técnico | Faculdade Multivix (2021)
-- Suporte em hardware e software para laboratórios
-- Treinamento de equipes no Microsoft Teams e Office 365
-- Redução de 20% nas solicitações básicas de suporte
+ <div align="center">| Prefeitura Municipal (2020-2021)
+ Migrei +80 estações para Windows 10, reduzindo falhas em 25%
+ Configurei redes estruturadas com switches Cisco
+ Implementei automações via PowerShell
 
 ---
 
