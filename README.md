@@ -39,7 +39,7 @@
 
 ---
 
-## <div align="center">🛠️ Habilidades Técnicas <\div>
+## <div align="center">🛠️ Habilidades Técnicas
 
 <div align="center">
 <div class="skills-container" style="background-color: #0d1117; border-radius: 10px; overflow: hidden;">
