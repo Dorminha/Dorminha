@@ -3,8 +3,8 @@
 <div align="center">
   
 ![Banner](https://img.shields.io/badge/Analista%20de%20Suporte%20T%C3%A9cnico-8A2BE2?style=for-the-badge&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-de-paz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luandepaz017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 </div>
 
@@ -43,35 +43,80 @@
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,bash,linux,vscode&theme=dark" alt="Skills Icons" />
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </div>
 </div>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" alt="Redes" width="65" height="65" />
+
+<div class="skills-container" style="background-color: #0d1117; border-radius: 10px; overflow: hidden;">
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" height="60" alt="React" />
+        <br>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="60" height="60" alt="Windows" />
+        <br>Windows
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NetworkingOld.svg" width="60" height="60" alt="Redes" />
         <br>Redes
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Apps" width="65" height="65" />
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="60" height="60" alt="G-Apps" />
         <br>G-Apps
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="PowerShell" width="65" height="65" />
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="60" height="60" alt="PowerShell" />
         <br>PowerShell
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
         <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
         <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      </td>
+      <td align="center" style="padding: 20px; border: 1px solid #21262d;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" alt="Git" />
         <br>Git
-    </td>
-  </tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%" />
+</div>
 
 ---
 
@@ -118,15 +163,15 @@
 - Desenvolvi macros no LibreOffice para geração de relatórios epidemiológicos
 - Economia de 10 horas semanais em tarefas repetitivas
 
-### Suporte Técnico | Faculdade Multivix (2021)
-- Suporte em hardware e software para laboratórios
-- Treinamento de equipes no Microsoft Teams e Office 365
-- Redução de 20% nas solicitações básicas de suporte
-
 ### Auxiliar de TI | Prefeitura Municipal (2020-2021)
 - Migrei +80 estações para Windows 10, reduzindo falhas em 25%
 - Configurei redes estruturadas com switches Cisco
 - Implementei automações via PowerShell
+
+### Suporte Técnico | Faculdade Multivix (2021)
+- Suporte em hardware e software para laboratórios
+- Treinamento de equipes no Microsoft Teams e Office 365
+- Redução de 20% nas solicitações básicas de suporte
 
 ---
 
