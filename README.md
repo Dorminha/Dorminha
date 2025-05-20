@@ -41,6 +41,7 @@
 
 ## 🛠️ Habilidades Técnicas
 
+<div align="center">
 <div class="skills-container" style="background-color: #0d1117; border-radius: 10px; overflow: hidden;">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -100,6 +101,7 @@
       </td>
     </tr>
   </table>
+</div>
 </div>
 
 <div align="center">
