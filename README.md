@@ -179,7 +179,7 @@
 
 ---
 
-##<div align="center"> 🔎 Busco Oportunidades Para
+<div align="center"> 🔎 Busco Oportunidades Para
 
 <div align="center">
   <table>
