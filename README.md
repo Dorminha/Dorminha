@@ -9,16 +9,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dorminha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dorminha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-
-</div>
-
-<br>
-
 ## ⚡ Sobre Mim
 
 Olá! Sou um **Especialista em Tecnologia** com uma abordagem híbrida: combino a solidez da **Engenharia de Infraestrutura** com a criatividade do **Desenvolvimento de Software**.
