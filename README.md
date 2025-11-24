@@ -20,10 +20,10 @@
 
 Olá! Sou um **Especialista em Tecnologia** com uma abordagem híbrida: combino a solidez da **Engenharia de Infraestrutura** com a criatividade do **Desenvolvimento de Software**.
 
-[cite_start]Atualmente, transformo departamentos de TI através da automação (RPA) e governança [cite: 6, 7][cite_start], enquanto atuo como educador formando a próxima geração de desenvolvedores Python[cite: 17, 18]. Minha missão é migrar processos manuais para código eficiente e transformar ideias em aplicações robustas.
+Atualmente, transformo departamentos de TI através da automação (RPA) e governança, enquanto atuo como educador formando a próxima geração de desenvolvedores Python. Minha missão é migrar processos manuais para código eficiente e transformar ideias em aplicações robustas.
 
 * 🔭 **Foco Atual:** Desenvolvimento Full-Stack (Python/Django) e criação de SaaS.
-* [cite_start]👨‍🏫 **Educador:** Tutor de Python e Lógica de Programação, ensinando de Algoritmos a Game Dev[cite: 17, 23].
+* 👨‍🏫 **Educador:** Tutor de Python e Lógica de Programação, ensinando de Algoritmos a Game Dev.
 * 🎮 **Comunidade:** Administrador de servidores de **Project Zomboid** (foco em modding/Lua) e entusiasta da engine **Roblox**.
 * 💡 **Interesses:** Automação de Processos (RPA), FinOps, Cyberpunk Aesthetics e Desenvolvimento de Jogos.
 
@@ -48,32 +48,32 @@ Olá! Sou um **Especialista em Tecnologia** com uma abordagem híbrida: combino 
 | :--- | :--- | :--- |
 | **Project Resistance** | `Python` `Django` | *SaaS (Em construção)*. Aplicação de "Gamified Accountability" com estética Cyberpunk para gestão de hábitos e metas. |
 | **PZ Server Manager** | `Lua` `Discord.py` | Gestão de comunidade, modding e bots de agendamento/calendário para servidor de Project Zomboid. |
-| **Edu-Tech Curriculum** | `Python` `Pygame` | [cite_start]Arquitetura de um currículo completo de 24 aulas para ensino de Python via desenvolvimento de jogos[cite: 19]. |
+| **Edu-Tech Curriculum** | `Python` `Pygame` | Arquitetura de um currículo completo de 24 aulas para ensino de Python via desenvolvimento de jogos. |
 
 ### 💼 Experiência Profissional (Destaques)
 
 **🔹 Tutor de Python & Mentor Tech @ KodLand** *(07/2025 - Atual)*
-* [cite_start]Ensino de lógica, POO e desenvolvimento de jogos (Pygame/Roblox) para turmas internacionais[cite: 17, 23].
-* [cite_start]Implementação de metodologia Ágil (Scrum/Jira) para gestão de projetos dos alunos[cite: 24].
+* Ensino de lógica, POO e desenvolvimento de jogos (Pygame/Roblox) para turmas internacionais.
+* Implementação de metodologia Ágil (Scrum/Jira) para gestão de projetos dos alunos.
 
 **🔹 Suporte TI & Automação @ Upgrade Contabilidade** *(06/2024 - 04/2025)*
-* [cite_start]**RPA:** Desenvolvimento de robôs em Python (Selenium/Pandas) para o sistema Domínio, automatizando rotinas fiscais[cite: 31].
-* [cite_start]**Impacto:** Redução de 30% em custos operacionais (FinOps) e prêmio de Destaque Administrativo[cite: 10, 28].
+* **RPA:** Desenvolvimento de robôs em Python (Selenium/Pandas) para o sistema Domínio, automatizando rotinas fiscais.
+* **Impacto:** Redução de 30% em custos operacionais (FinOps) e prêmio de Destaque Administrativo.
 
 **🔹 Estagiário de Desenvolvimento @ Acorde**
-* [cite_start]Criação de scripts em **Google Apps Script** para automação de planilhas e otimização de fluxo de dados[cite: 49].
+* Criação de scripts em **Google Apps Script** para automação de planilhas e otimização de fluxo de dados.
 
 ---
 
 ## 🎓 Formação & Certificações
 
-* [cite_start]**Sistemas de Informação** - Faculdade Multivix *(Previsão: 12/2027)* [cite: 77]
-* [cite_start]**Análise e Desenvolvimento de Sistemas** - Faculdade Multivix *(Previsão: 12/2026)* [cite: 75]
-* [cite_start]**Idiomas:** Inglês C1 (Avançado) [cite: 87]
+* **Sistemas de Informação** - Faculdade Multivix *(Previsão: 12/2027)
+* **Análise e Desenvolvimento de Sistemas** - Faculdade Multivix *(Previsão: 12/2026)*
+* **Idiomas:** Inglês C1 (Avançado)
 
 🏆 **Certificações DIO (2025):**
-* [cite_start]Desenvolvedor Python Backend & Full-Stack [cite: 89, 90]
-* [cite_start]UI/UX Design [cite: 92]
+* Desenvolvedor Python Backend & Full-Stack
+* UI/UX Design 
 
 ---
 
