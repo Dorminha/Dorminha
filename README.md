@@ -60,7 +60,7 @@ Atualmente, transformo departamentos de TI através da automação (RPA) e gover
 
 ## 🎓 Formação & Certificações
 
-* **Sistemas de Informação** - Faculdade Multivix *(Previsão: 12/2027)
+* **Sistemas de Informação** - Faculdade Multivix *(Previsão: 12/2027)*
 * **Análise e Desenvolvimento de Sistemas** - Faculdade Multivix *(Previsão: 12/2026)*
 * **Idiomas:** Inglês C1 (Avançado)
 
