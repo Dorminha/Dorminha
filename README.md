@@ -22,7 +22,7 @@ Atualmente, transformo departamentos de TI através da automação (RPA) e gover
 
 ---
 
-## 🛠️ Arsenal Tecnológico
+## 🛠️ Stacks
 
 <div align="center">
 
