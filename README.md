@@ -1,16 +1,16 @@
 <div align="center">
 
 # Luan de Paz
-
-### Support Analyst | Python Developer | Educator
+### Especialista em Infraestrutura | Python Developer | Tech Educator
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-de-paz/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luandepaz017@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=html5&logoColor=white)](https://github.com/Dorminha)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dorminha&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorminha&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dorminha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorminha&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 
 </div>
 
@@ -18,51 +18,67 @@
 
 ## ⚡ Sobre Mim
 
-Analista de Suporte Técnico com forte viés para **automação e desenvolvimento**. Atualmente cursando Sistemas de Informação, utilizo meu background em infraestrutura para criar soluções robustas.
+Olá! Sou um **Especialista em Tecnologia** com uma abordagem híbrida: combino a solidez da **Engenharia de Infraestrutura** com a criatividade do **Desenvolvimento de Software**.
 
-* 💻 **Foco:** Migração de carreira para Desenvolvimento de Software (Backend/Fullstack).
-* 🐍 **Especialidade:** Automação de processos (RPA), Scripting e Criação de Bots.
-* 👨‍🏫 **Educador:** Atuo como **Tutor de Python**, ensinando lógica de programação e desenvolvimento de jogos (Pygame Zero).
-* 🎮 **Hobby Dev:** Administrador e Modder de comunidade de *Project Zomboid* e entusiasta de Game Dev (Roblox/Lua).
+[cite_start]Atualmente, transformo departamentos de TI através da automação (RPA) e governança [cite: 6, 7][cite_start], enquanto atuo como educador formando a próxima geração de desenvolvedores Python[cite: 17, 18]. Minha missão é migrar processos manuais para código eficiente e transformar ideias em aplicações robustas.
+
+* 🔭 **Foco Atual:** Desenvolvimento Full-Stack (Python/Django) e criação de SaaS.
+* [cite_start]👨‍🏫 **Educador:** Tutor de Python e Lógica de Programação, ensinando de Algoritmos a Game Dev[cite: 17, 23].
+* 🎮 **Comunidade:** Administrador de servidores de **Project Zomboid** (foco em modding/Lua) e entusiasta da engine **Roblox**.
+* 💡 **Interesses:** Automação de Processos (RPA), FinOps, Cyberpunk Aesthetics e Desenvolvimento de Jogos.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,lua,git,linux,vscode,powershell&theme=dark" />
+
+| **Linguagens** | **Backend & Web** | **Infra & Cloud** | **Ferramentas & DevOps** |
+| :---: | :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Win_Server-0078D6?style=flat&logo=windows&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=flat&logo=zabbix&logoColor=white) |
+
 </div>
 
 ---
 
-## 🔭 Projetos em Destaque & Estudos
+## 🚀 Projetos & Experiência
 
-| Projeto / Foco | Detalhes |
-| :--- | :--- |
-| **SaaS "Project Resistance"** | *Em desenvolvimento.* Aplicação Web (Python/Django) focada em accountability gamificado com estética Cyberpunk. |
-| **Automação RPA** | Criação de scripts para otimizar fluxos de trabalho repetitivos e integração de APIs. |
-| **Discord Bots** | Desenvolvimento de bots para administração de comunidades e agendamento (Calendar Bot). |
-| **Game Dev** | Projetos educacionais em Pygame Zero e scripts de mecânicas para Roblox/Project Zomboid. |
+### 🏗️ Projetos em Desenvolvimento (SaaS & Game Dev)
+| Projeto | Stack | Descrição |
+| :--- | :--- | :--- |
+| **Project Resistance** | `Python` `Django` | *SaaS (Em construção)*. Aplicação de "Gamified Accountability" com estética Cyberpunk para gestão de hábitos e metas. |
+| **PZ Server Manager** | `Lua` `Discord.py` | Gestão de comunidade, modding e bots de agendamento/calendário para servidor de Project Zomboid. |
+| **Edu-Tech Curriculum** | `Python` `Pygame` | [cite_start]Arquitetura de um currículo completo de 24 aulas para ensino de Python via desenvolvimento de jogos[cite: 19]. |
+
+### 💼 Experiência Profissional (Destaques)
+
+**🔹 Tutor de Python & Mentor Tech @ KodLand** *(07/2025 - Atual)*
+* [cite_start]Ensino de lógica, POO e desenvolvimento de jogos (Pygame/Roblox) para turmas internacionais[cite: 17, 23].
+* [cite_start]Implementação de metodologia Ágil (Scrum/Jira) para gestão de projetos dos alunos[cite: 24].
+
+**🔹 Suporte TI & Automação @ Upgrade Contabilidade** *(06/2024 - 04/2025)*
+* [cite_start]**RPA:** Desenvolvimento de robôs em Python (Selenium/Pandas) para o sistema Domínio, automatizando rotinas fiscais[cite: 31].
+* [cite_start]**Impacto:** Redução de 30% em custos operacionais (FinOps) e prêmio de Destaque Administrativo[cite: 10, 28].
+
+**🔹 Estagiário de Desenvolvimento @ Acorde**
+* [cite_start]Criação de scripts em **Google Apps Script** para automação de planilhas e otimização de fluxo de dados[cite: 49].
 
 ---
 
-## 💼 Experiência Relevante
+## 🎓 Formação & Certificações
 
-**Analista de Suporte Técnico @ Upgrade Contabilidade**
-* Gerenciamento de ambiente com +200 usuários.
-* **Dev:** Automatizei +15 processos internos usando Python e Google Apps Script.
-* **Infra:** Redução de 35% nos incidentes de rede (Firewall/VLAN).
+* [cite_start]**Sistemas de Informação** - Faculdade Multivix *(Previsão: 12/2027)* [cite: 77]
+* [cite_start]**Análise e Desenvolvimento de Sistemas** - Faculdade Multivix *(Previsão: 12/2026)* [cite: 75]
+* [cite_start]**Idiomas:** Inglês C1 (Avançado) [cite: 87]
 
-**Tutor de Python @ KodLand (Frek)**
-* Ensino de lógica de programação e desenvolvimento de projetos práticos.
-
-**Analista de Suporte @ Acorde**
-* Otimização de fluxos jurídicos via JavaScript, acelerando análises em 30%.
+🏆 **Certificações DIO (2025):**
+* [cite_start]Desenvolvedor Python Backend & Full-Stack [cite: 89, 90]
+* [cite_start]UI/UX Design [cite: 92]
 
 ---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-  <br><br>
-  <sub><i>"Transformando café em código e problemas em soluções automatizadas."</i></sub>
+  <br>
+  <sub><i>"Transformando café em código e problemas complexos em soluções automatizadas."</i></sub>
 </div>
